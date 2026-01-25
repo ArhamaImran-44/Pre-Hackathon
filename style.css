@@ -1,0 +1,28 @@
+:root{
+    --primary:var(#1090CB);
+}
+
+.bluebtn{ 
+    background-color:#1090CB;
+}
+
+/* hero section */
+.logo{
+    background-color: #1090CB1A;
+}
+.color{
+    color: #1090CB;
+}
+
+.maximum{
+    font-size: 30px;
+}
+
+
+  /* dummy section */
+.mix{
+    font-size:  30px;
+}
+.dull{
+    background-color: #08D3BB;
+}
