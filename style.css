@@ -23,6 +23,36 @@
 .mix{
     font-size:  30px;
 }
+.first{
+    background-color: #EFEAFF;
+}
+.second{
+    background-color: #ECFFDA;
+}
+.third{
+    background-color: #DAE6FF;
+}
+.forth{
+    background-color: #FFE5DA;
+}
 .dull{
     background-color: #08D3BB;
+     border-radius: 15px;
+    height: 50px ;
+}
+.fox {
+    background-color: #1090CB;
+    border-radius: 15px;
+    height: 50px ;
+}
+.option{
+    color: #1090CB ;
+}
+.hello img{
+    height: 200px ;
+}
+.not {
+ border-radius: 15px;
+    height: 50px ;
+    background-color: #9208D3;
 }
